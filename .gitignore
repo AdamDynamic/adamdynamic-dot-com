@@ -1,0 +1,6 @@
+# Add default file names and file types not to commit to GitHub
+
+.DS_Store
+~$*
+details.md
+references_private.py
