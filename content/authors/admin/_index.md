@@ -18,7 +18,7 @@ role: Gentleman Amateur.
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 #interests:
 #- Artificial Intelligence
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Amateur developer, occaisional space explorer, accountant. Head of Finance & Operations at [Clearmatics][1]. All views, mistakes and generally badly-written code my own.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+[1]: https://www.clearmatics.com
