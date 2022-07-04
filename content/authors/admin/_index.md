@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Amateur developer, occaisional space explorer, accountant. Head of Finance & Operations at [Clearmatics][1]. All views, mistakes and generally badly-written code my own.
+Amateur developer, occaisional space explorer, accountant. Chief Financial Officer at [Token.com][1]. All views, mistakes and generally badly-written code my own.
 
-[1]: https://www.clearmatics.com
+[1]: https://www.token.com
