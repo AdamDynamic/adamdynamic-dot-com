@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Amateur developer, occaisional space explorer, accountant. Chief Financial Officer at [Token.com][1]. All views, mistakes and generally badly-written code my own.
-
-[1]: https://www.token.com
+Amateur developer, occaisional space explorer, accountant. All views, mistakes and generally badly-written code my own.
